@@ -4,7 +4,7 @@
 🍖Input arguments: beer, bacon, pipe tobacco, money, 95 grade gas.<br>
 🐵Further elaboration status: refused<br>
 🐀Current mental status (updated when I remember to): <br>
-![Screenshot 2023-06-25 133419](https://github.com/DEV742/DEV742/assets/32599868/d46d2aa7-9a5f-4324-b393-8db9fc4e199e)
+![rat](https://github.com/DEV742/DEV742/assets/32599868/0b01e839-825a-4ac1-a737-f4fbc261af58)
 
 
 <!---
